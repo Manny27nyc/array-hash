@@ -1,0 +1,19 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./CMakeLists.txt
+./include/tsl/array_map.h
+./include/tsl/array_hash.h
+./include/tsl/array_growth_policy.h
+./include/tsl/array_set.h
+./tests/utils.h
+./tests/policy_tests.cpp
+./tests/CMakeLists.txt
+./tests/array_set_tests.cpp
+./tests/array_bucket_test.cpp
+./tests/array_map_tests.cpp
+./tests/main.cpp
+./valid_targets.txt
